@@ -1,10 +1,9 @@
 # CHALL3 #
 Project tìm hiểu về nén và giải nén dữ liệu qua 2 thuật toán:
-
-HuffMan 
-
-LZW
-
+<ul>
+   <li>HuffMan </li>
+   <li>LZW</li>
+</ul>
 <br/>
 
 # Thành viên #
