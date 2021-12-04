@@ -2,7 +2,7 @@
 Project tìm hiểu về nén và giải nén dữ liệu qua 2 thuật toán:
 <ul>
    <li>HuffMan </li>
-   <li>LZW</li>
+   <li>Lempel-Ziv-Welch (LZW)</li>
 </ul>
 
 # Thành viên #
