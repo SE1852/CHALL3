@@ -5,7 +5,6 @@ Project tìm hiểu về nén và giải nén dữ liệu qua 2 thuật toán:
    <li>LZW</li>
 </ul>
 <br/>
-
 # Thành viên #
 
 Văn Hào - Tìm hiểu LZW
